@@ -2057,7 +2057,7 @@ module.exports = [{
     name: "ICanHaz",
     tags: ["templating"],
     description: "Simple & powerful client-side templating for jQuery or Zepto.js.",
-    url: "http://icanhazjs.com/",
+    url: "https://github.com/HenrikJoreteg/ICanHaz.js",
     source: "https://raw.githubusercontent.com/HenrikJoreteg/ICanHaz.js/master/ICanHaz.js"
   },
   {
@@ -5402,6 +5402,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
   },
   {
+    name: "sjsClass",
+    github: "reduardo7/sjsClass",
+    tags: ["class", "node", "npm", "javascript", "nojquery", "browser", "chrome"],
+    description: "Simple JavaScript Class. Create your advanced JavaScript Class!",
+    url: "https://github.com/reduardo7/sjsClass",
+    source: "https://raw.githubusercontent.com/reduardo7/sjsClass/master/lib/sjsclass.js"
+  },
+  {
     name: "arenite",
     github: "arenite/arenite",
     tags: ["dependency", "inversion", "control", "injection", "ioc", "di", "require", "dependency injection", "provider", "IOC", "microkernel", "module", "framework", "service locator"],
@@ -5535,6 +5543,14 @@ module.exports = [{
     description: "A mini (1.2kb) DOM Manipulation library. A very slim and fast helper.",
     url: "https://github.com/kaisermann/aph",
     source: "https://raw.githubusercontent.com/kaisermann/aph/master/dist/aph.js"
+  },
+  {
+    name: "FlexSearch",
+    github: "nextapps-de/flexsearch",
+    tags: ["javascript", "search engine", "full-text search", "elastic search"],
+    description: "Next-Generation full text search library with zero dependencies.",
+    url: "https://github.com/nextapps-de/flexsearch",
+    source: "https://cdn.rawgit.com/nextapps-de/flexsearch/master/flexsearch.compact.js"
   },
   {
     name: "tiv",
